@@ -1,15 +1,15 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
-    "password": "",
+    "username": "Technoblade",
+    "password": "heavensaliveomg",
     "type": "offline"
   },
   "server": {
-    "ip": "sigmarizz111.aternos.me",
-    "port": 45899,
-    "version": "",
-    "try-creative": false
+    "ip": "smp.jartex.fun",
+    "port": 25565,
+    "version": "1.8.9",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "heavensaliveomg",
+        "hey",
+        "whats up"
       ]
     },
     "chat-log": true,
